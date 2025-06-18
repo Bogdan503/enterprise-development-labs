@@ -23,3 +23,4 @@ public class Customer
     /// </summary>
     public DateTime BirthDate { get; set; }
 }
+// моя лаба
